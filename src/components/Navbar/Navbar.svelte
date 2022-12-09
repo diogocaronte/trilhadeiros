@@ -5,20 +5,40 @@
 
     export let links = [
         {
-            text: 'Dashboard',
+            text: 'Pré Interesse',
             href: '#',
         },
         {
-            text: 'Team',
+            text: 'Inicial',
             href: '#',
         },
         {
-            text: 'Project',
-            href: '#',
+            text: 'Quem Somos',
+            href: '/quem-somos',
         },
         {
-            text: 'Calendar',
-            href: '#',
+            text: 'Agenda',
+            href: '/agenda',
+        },
+        {
+            text: 'Relatos',
+            href: '/relatos',
+        },
+        {
+            text: 'Artigos',
+            href: '/artigos',
+        },
+        {
+            text: 'Cursos',
+            href: '/cursos',
+        },
+        {
+            text: 'Contato',
+            href: '/contato',
+        },
+        {
+            text: 'Faça Parte',
+            href: '/faca-parte',
         },
     ];
 </script>
